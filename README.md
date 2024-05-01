@@ -2,11 +2,35 @@
 Stay on top of your payroll: track every penny that flows through your organization.
 
 ## Description
-This challenge is to test if I can pull, commit and push an existing code from a marketing agency website – along with the site assets, such as images – to a GitHub repository, so that I finally demonstrate that I can deploy a website.
-It was also a first taste of how to clean-up a code, to facilitate further improvements.
+Track like a bloodhound! This web app enables you to analyze your payroll and the number of employees. Through the console, you'll gain insights into the quality of your organization's salaries. Moreover, we've incorporated a lottery feature to incentivize your employees.
 
-## Installation
-You’ll just have to access the website [here](https://github.com/AlejnadroVill/Third-Challenge), no installation required.
+Add your organization's employees limitlessly and in separate rows.
+
+Find the repo [here](https://github.com/AlejnadroVill/Third-Challenge).
+
+## Table of Contents
+- [Resources](#resources)
+- [Usage](#usage)
+- [Get Started](#get-started)
+- [License](#license)
+- [Credits](#credits)
+
+## Resources
+* For the HTML:
+    * Favicon.
+    * Tables
+    * `defer`
+* For the CSS:
+    * Intuitive classes.
+    * Flex display.
+    * ```Calc()``` sizes for responsiveness.
+* For JavaScript
+    * Console logs.
+    * Console tables.
+    * Loops with `do` and `while`.
+    * `prompt`, `confirm` and `alert` to comunicate with the user.
+    * `new Intl.NumberFormat()` to format the money quantities.
+    * `Math` to generate random numbers.
 
 ## Usage
 To fully experience Payroll Hound, you'll need to open your console in DevTools. Simply press cmd + alt + j and explore our features.
